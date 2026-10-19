@@ -16,3 +16,5 @@ function App() {
 }
 
 export default App;
+
+// bijli ni andi pencho
