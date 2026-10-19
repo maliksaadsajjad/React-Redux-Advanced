@@ -17,4 +17,4 @@ function App() {
 
 export default App;
 
-// phucking electricity outage made me not work
+// i'll work tomorrow i guess
