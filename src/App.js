@@ -17,4 +17,4 @@ function App() {
 
 export default App;
 
-// bijli ni andi pencho
+// phucking electricity outage made me not work
